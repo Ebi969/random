@@ -1,0 +1,9 @@
+C type profile 
+Split card into 3 - 3x 4Gb vGPU's
+
+1 POD - 4g
+1 POD - 8G
+
+1:1
+2:1
+1:0
